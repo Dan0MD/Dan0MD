@@ -10,89 +10,110 @@ Feature phone user since 2011 😄
 
 ---
 
-Fedora Workstation / KDE / Server • OpenSUSE Leap • Proxmox VE • Windows deployment & maintenance
+Fedora Workstation / KDE / Server • OpenSUSE Leap / Tumbleweed • Proxmox VE • Windows deployment & maintenance
 
 ---
 
-
 <table>
 <tr>
-<td><strong>OSes</strong></td>
+<td><strong>Platforms</strong></td>
 <td>
-  
-![My Skills](https://skills.syvixor.com/api/icons?i=fedora,proxmox,opensuse,alpinelinux,windows,virtualbox,vmware) 
-
+<img src="https://skills.syvixor.com/api/icons?i=fedora" height="40"/>
+<img src="https://skills.syvixor.com/api/icons?i=redhat" height="40"/>
+<!-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/almalinux.svg" height="32" style="vertical-align: middle;"/> -->
+<img src="https://skills.syvixor.com/api/icons?i=proxmox" height="40"/>
+<img src="https://skills.syvixor.com/api/icons?i=opensuse" height="40"/>
+<img src="https://skills.syvixor.com/api/icons?i=windows" height="40"/>
 </td>
 </tr>
   
 <tr>
 <td><strong>Languages / Frameworks</strong></td>
 <td>
-  
-![My Skills](https://skills.syvixor.com/api/icons?i=dotnet,csharp,cpp,c,processing,java,python,fastapi,bash,powershell,sql,html,xml,xaml,yaml) 
+
+<table>
+<tr>
+<td align="center">
+<strong>Mainstack</strong><br>
+<img src="https://skills.syvixor.com/api/icons?i=dotnet,csharp,xaml,sql" height="40"/>
+</td>
+
+<td width="24"></td>
+
+<td align="center">
+<strong>Embedded</strong><br>
+<img src="https://skills.syvixor.com/api/icons?i=c,cpp" height="40"/>
+</td>
+
+<td width="24"></td>
+
+<td align="center">
+<strong>Origins</strong><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Processing_4.0b1_Icon.png" height="40"/>
+<img src="https://skills.syvixor.com/api/icons?i=java" height="40"/>
+</td>
+
+<td width="24"></td>
+
+<td align="center">
+<strong>Scripting</strong><br>
+<img src="https://skills.syvixor.com/api/icons?i=python,bash" height="40"/>
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
-  
+
 <tr>
-<td><strong>Technologies</strong></td>
+<td><strong>Infrastructure</strong></td>
 <td>
+<img src="https://skills.syvixor.com/api/icons?i=docker" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireguard.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/adguard-home.svg" height="40"/>
+<img src="https://skills.syvixor.com/api/icons?i=nginx,prometheus,grafana" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/uptime-kuma.svg" height="40"/>
+</td>
+</tr>
 
-<img src="https://skills.syvixor.com/api/icons?i=linux,docker,git,github,gitea,gitlab,nginx,prometheus,grafana" height="48"/>
+<tr>
+<td><strong>Control Plane</strong></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cockpit.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/homepage.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/portainer-v1.svg" height="40"/>
+</td>
+</tr>
 
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireguard.svg" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/adguard-home.svg" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/uptime-kuma.svg" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/portainer-v1.svg" height="48"/>
-<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/rustdesk.svg" height="48"/>
-
+<tr>
+<td><strong>Services</strong></td>
+<td>
+<img src="https://skills.syvixor.com/api/icons?i=gitea,ansible,n8n" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wikijs.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/rustdesk.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/sunshine.svg" height="40"/>
 </td>
 </tr>
 
 <tr>
 <td><strong>Databases</strong></td>
 <td>
-
-<img src="https://skills.syvixor.com/api/icons?i=postgresql,sqlserver,mysql,sqlite,mongodb,redis" height="48"/>
-
+<img src="https://skills.syvixor.com/api/icons?i=postgresql,sqlserver,sqlite" height="40"/>
 </td>
 </tr>
 
 <tr>
 <td><strong>Local LLM / AI</strong></td>
 <td>
-
-<img src="https://skills.syvixor.com/api/icons?i=ollama,openwebui,comfyui,stabilitymatrix" height="48"/>
-
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/flowise.svg" height="48"/>
-
+<img src="https://skills.syvixor.com/api/icons?i=lmstudio,ollama,openwebui,comfyui,stabilitymatrix" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/flowise.svg" height="40" style="vertical-align: middle;"/>
 </td>
 </tr>
 
 <tr>
-<td><strong>Tools</strong></td>
+<td><strong>Tooling</strong></td>
 <td>
-
-<img src="https://skills.syvixor.com/api/icons?i=visualstudio,visualstudiocode,cursor,dbeaver,obsidian,arduino,drawio" height="48"/>
-
-<img src="./SolidWorks_Logo.svg" height="48"/>
-
+<img src="https://skills.syvixor.com/api/icons?i=visualstudio,visualstudiocode,dbeaver,git,github,obsidian,arduino" height="40"/>
 </td>
 </tr>
 </table>
-
-
-<!--
-**Dan0MD/Dan0MD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
