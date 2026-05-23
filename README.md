@@ -5,13 +5,21 @@ Android User since 2018
 Windows User since 2014  
 S30+ (dumbphones) user since since 2011
 
+## OSes
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 
-## Languages i know
-![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,c,python,html,bash,powershell,cpp) 
+---
+
+## Languages & Development
+![My Skills](https://skillicons.dev/icons?i=dotnet,cs,cpp,c,java,python,bash,powershell,html) 
+
+---
 
 ## OSes worked with
 Windows 7, Windows 10, Linux Fedora Workstation, Linux Fedora KDE Desktop, Linux Fedora Server, Proxmox VE, OpenSUSE Leap
+
+---
 
 ## Systems & Infrastructure
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,git,github,gitlab,nginx,cloudflare,postgres,mongodb,redis,prometheus,grafana,jenkins,fastapi)](https://skillicons.dev)
@@ -24,9 +32,10 @@ Windows 7, Windows 10, Linux Fedora Workstation, Linux Fedora KDE Desktop, Linux
 
 ---
 
-## Development
-![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,arduino,matlab,autocad,obsidian)
+## Tools
+![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,obsidian,arduino,matlab,octave,autocad)
 
+--
 
 ## Current Interests
 
