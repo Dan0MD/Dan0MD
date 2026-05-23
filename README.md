@@ -1,5 +1,13 @@
-## Hi there 👋
 
+# Dan0MD
+Fedora Linux user since 2024  
+Windows User since 2014  
+
+## Languages i know
+![My Skills](https://skillicons.dev/icons?i=c#,java,c,python,html) 
+
+## Cool Technologies i know
+![My Skills](https://skillicons.dev/icons?i=linux,fedora,bash,git,docker,md)
 <!--
 **Dan0MD/Dan0MD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
