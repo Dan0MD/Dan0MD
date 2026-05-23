@@ -120,6 +120,10 @@ Fedora Workstation / KDE / Server • OpenSUSE Leap / Tumbleweed • Proxmox VE 
 </table>
 
 
-HomeLab project v1:
-https://www.reddit.com/r/homelab/comments/1srplwo/built_a_homelab_from_lowpower_and_mostly/
+<hr>
+
+<strong>Projects</strong>
+
+- <a href="https://www.reddit.com/r/homelab/comments/1srplwo/built_a_homelab_from_lowpower_and_mostly/">HomeLab project v1</a>
+
 
