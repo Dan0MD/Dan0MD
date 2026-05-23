@@ -1,59 +1,85 @@
 
 # Dan0MD
-Industrial Systems Architect  
-Linux / Infrastructure / Hardware / Experimental Computing Enthusiast
 
+Linux • Infrastructure • Hardware • Experimental Computing
 
 Fedora Linux user since 2024  
 Android user since 2018  
 Windows user since 2014  
 Feature phone user since 2011 😄
 
-## OSes
+---
 
-![My Skills](https://skills.syvixor.com/api/icons?i=fedora,proxmox,opensuse,android,windows,virtualbox,vmware,alpinelinux)
-
-Fedora Workstation / KDE / Server • OpenSUSE Leap • Proxmox VE • Windows 7/10 (XP/Vista/8/8.1/11) <!-- 7/10 used, the rest only maintained/repaired on clients PCs -->
+Fedora Workstation / KDE / Server • OpenSUSE Leap • Proxmox VE • Windows deployment & maintenance
 
 ---
 
-## Languages & Development
-![My Skills](https://skills.syvixor.com/api/icons?i=dotnet,csharp,cpp,c,processing,java,python,fastapi,bash,powershell,sql,html,xaml,yaml) 
 
----
+<table>
+<tr>
+<td><strong>OSes</strong></td>
+<td>
+  
+![My Skills](https://skills.syvixor.com/api/icons?i=fedora,proxmox,opensuse,alpinelinux,windows,virtualbox,vmware) 
 
-## Systems & Infrastructure
-![My Skills](https://skills.syvixor.com/api/icons?i=linux,docker,git,github,gitea,gitlab,nginx,prometheus,grafana,cloudflare,jenkins)
+</td>
+</tr>
+  
+<tr>
+<td><strong>Languages / Frameworks</strong></td>
+<td>
+  
+![My Skills](https://skills.syvixor.com/api/icons?i=dotnet,csharp,cpp,c,processing,java,python,fastapi,bash,powershell,sql,html,xml,xaml,yaml) 
 
-![My Skills](https://skills.syvixor.com/api/icons?i=postgresql,sqlserver,mysql,sqlite,mongodb,redis)
+</td>
+</tr>
+  
+<tr>
+<td><strong>Technologies</strong></td>
+<td>
 
-<!-- ![My Skills](https://skills.syvixor.com/api/icons?i=wireguard,adguard,rustdesk,uptimekuma,sunshine,wekan) <!-- none of them doesn't exist yet -->
+<img src="https://skills.syvixor.com/api/icons?i=linux,docker,git,github,gitea,gitlab,nginx,prometheus,grafana" height="48"/>
 
-![My Skills](https://skills.syvixor.com/api/icons?i=ollama,openwebui,comfyui,stabilitymatrix) <!-- no StabilityMatrix -->
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireguard.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/adguard-home.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/uptime-kuma.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/portainer-v1.svg" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/rustdesk.svg" height="48"/>
 
-<!-- ![My Skills](https://skills.syvixor.com/api/icons?i=firefox,steam,telegram,protonmail,chatgpt) -->
+</td>
+</tr>
 
-<!-- ![My Skills](https://skills.syvixor.com/api/icons?i=curseforge,notion,termux) -->
+<tr>
+<td><strong>Databases</strong></td>
+<td>
 
-<!-- ![My Skills](https://skills.syvixor.com/api/icons?i=anaconda,curl,systemd) -->
+<img src="https://skills.syvixor.com/api/icons?i=postgresql,sqlserver,mysql,sqlite,mongodb,redis" height="48"/>
 
----
+</td>
+</tr>
 
-## Tools
+<tr>
+<td><strong>Local LLM / AI</strong></td>
+<td>
 
-![My Skills](https://skills.syvixor.com/api/icons?i=visualstudio,visualstudiocode,cursor,dbeaver,obsidian,arduino,matlab,drawio)
+<img src="https://skills.syvixor.com/api/icons?i=ollama,openwebui,comfyui,stabilitymatrix" height="48"/>
 
----
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/flowise.svg" height="48"/>
 
-## Current Interests
+</td>
+</tr>
 
-- Linux infrastructure
-- GPU acceleration & rendering pipelines
-- Wayland & graphics systems
-- Homelab & thin clients
-- AI inference / local LLMs
-- Experimental computing projects
-- Industrial automation systems
+<tr>
+<td><strong>Tools</strong></td>
+<td>
+
+<img src="https://skills.syvixor.com/api/icons?i=visualstudio,visualstudiocode,cursor,dbeaver,obsidian,arduino,drawio" height="48"/>
+
+<img src="./SolidWorks_Logo.svg" height="48"/>
+
+</td>
+</tr>
+</table>
 
 
 <!--
