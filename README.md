@@ -110,6 +110,7 @@ Fedora Workstation / KDE / Server • OpenSUSE Leap / Tumbleweed • Proxmox VE 
 </td>
 </tr>
 
+
 <tr>
 <td><strong>Tooling</strong></td>
 <td>
@@ -117,3 +118,8 @@ Fedora Workstation / KDE / Server • OpenSUSE Leap / Tumbleweed • Proxmox VE 
 </td>
 </tr>
 </table>
+
+
+HomeLab project v1:
+https://www.reddit.com/r/homelab/comments/1srplwo/built_a_homelab_from_lowpower_and_mostly/
+
