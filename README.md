@@ -1,5 +1,9 @@
 
 # Dan0MD
+Industrial Systems Architect  
+Linux / Infrastructure / Hardware / Experimental Computing Enthusiast
+
+
 Fedora Linux user since 2024  
 Android user since 2018  
 Windows user since 2014  
@@ -7,46 +11,39 @@ Feature phone user since 2011 😄
 
 ## OSes
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="40"/>
-  <img src="https://cdn.simpleicons.org/proxmox/E57000" height="40"/>
-  <img src="https://cdn.simpleicons.org/opensuse/73BA25" height="40"/>
-  <img src="https://cdn.simpleicons.org/rockylinux/10B981" height="40"/>
-</p>
+![My Skills](https://skills.syvixor.com/api/icons?i=fedora,proxmox,opensuse,android,windows,virtualbox,vmware,alpinelinux)
 
-Windows 7, Windows 10, Linux Fedora Workstation, Linux Fedora KDE Desktop, Linux Fedora Server, Proxmox VE, OpenSUSE Leap
+Fedora Workstation / KDE / Server • OpenSUSE Leap • Proxmox VE • Windows 7/10 (XP/Vista/8/8.1/11) <!-- 7/10 used, the rest only maintained/repaired on clients PCs -->
 
 ---
 
 ## Languages & Development
-![My Skills](https://skillicons.dev/icons?i=dotnet,cs,cpp,c,java,python,bash,powershell,html) 
+![My Skills](https://skills.syvixor.com/api/icons?i=dotnet,csharp,cpp,c,processing,java,python,fastapi,bash,powershell,sql,html,xaml,yaml) 
 
 ---
 
 ## Systems & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,github,gitlab,nginx,prometheus,grafana,cloudflare,postgres,mongodb,redis,jenkins,fastapi)](https://skillicons.dev)
+![My Skills](https://skills.syvixor.com/api/icons?i=linux,docker,git,github,gitea,gitlab,nginx,prometheus,grafana,cloudflare,jenkins)
 
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-![AdGuard](https://img.shields.io/badge/AdGuard-68BC71?style=for-the-badge&logo=adguard&logoColor=white)
-![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)
-![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-5CDD8B?style=for-the-badge&logo=uptimekuma&logoColor=white)
-![RustDesk](https://img.shields.io/badge/RustDesk-024EFF?style=for-the-badge&logo=rustdesk&logoColor=white)
-![Sunshine](https://img.shields.io/badge/Sunshine-FCC624?style=for-the-badge&logo=sunshine&logoColor=black)
-![Wekan](https://img.shields.io/badge/Wekan-0052CC?style=for-the-badge&logo=wekan&logoColor=white)
+![My Skills](https://skills.syvixor.com/api/icons?i=postgresql,sqlserver,mysql,sqlite,mongodb,redis)
 
-![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,processing,p5js)
+<!-- ![My Skills](https://skills.syvixor.com/api/icons?i=wireguard,adguard,rustdesk,uptimekuma,sunshine,wekan) <!-- none of them doesn't exist yet -->
 
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![OpenWebUI](https://img.shields.io/badge/Open_WebUI-412991?style=for-the-badge)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-222222?style=for-the-badge)
-![StabilityMatrix](https://img.shields.io/badge/Stability_Matrix-6E56CF?style=for-the-badge)
+![My Skills](https://skills.syvixor.com/api/icons?i=ollama,openwebui,comfyui,stabilitymatrix) <!-- no StabilityMatrix -->
+
+<!-- ![My Skills](https://skills.syvixor.com/api/icons?i=firefox,steam,telegram,protonmail,chatgpt) -->
+
+<!-- ![My Skills](https://skills.syvixor.com/api/icons?i=curseforge,notion,termux) -->
+
+<!-- ![My Skills](https://skills.syvixor.com/api/icons?i=anaconda,curl,systemd) -->
 
 ---
 
 ## Tools
-![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,obsidian,arduino,matlab,octave)
 
---
+![My Skills](https://skills.syvixor.com/api/icons?i=visualstudio,visualstudiocode,cursor,dbeaver,obsidian,arduino,matlab,drawio)
+
+---
 
 ## Current Interests
 
