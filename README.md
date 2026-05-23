@@ -1,16 +1,42 @@
 
 # Dan0MD
 Fedora Linux user since 2024  
+Android User since 2018
 Windows User since 2014  
+S30+ (dumbphones) user since since 2011
+
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 
 ## Languages i know
-![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,c,python,html) 
+![My Skills](https://skillicons.dev/icons?i=dotnet,cs,java,c,python,html,bash,powershell,cpp) 
 
 ## OSes worked with
 Windows 7, Windows 10, Linux Fedora Workstation, Linux Fedora KDE Desktop, Linux Fedora Server, Proxmox VE, OpenSUSE Leap
 
-## Cool Technologies i know
-![My Skills](https://skillicons.dev/icons?i=linux,fedora,bash,git,docker,fastapi,postgres,md,arduino,visualstudio,vscode,matlab,obsidian,nginx,prometheus,grafana,windows)
+## Systems & Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,github,gitlab,nginx,cloudflare,postgres,mongodb,redis,prometheus,grafana,jenkins,fastapi)](https://skillicons.dev)
+
+---
+
+## Graphics, AI & Engineering
+
+[![My Skills](https://skillicons.dev/icons?i=opencv,pytorch,processing,p5js)](https://skillicons.dev)
+
+---
+
+## Development
+![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,arduino,matlab,autocad,obsidian)
+
+
+## Current Interests
+
+- Linux infrastructure
+- GPU acceleration & rendering pipelines
+- Wayland & graphics systems
+- Homelab & thin clients
+- AI inference / local LLMs
+- Experimental computing projects
+- Industrial automation systems
 <!--
 **Dan0MD/Dan0MD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
