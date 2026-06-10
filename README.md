@@ -3,10 +3,7 @@
 
 Linux • Infrastructure • Hardware • Experimental Computing
 
-Fedora Linux user since 2024  
-Android user since 2018  
-Windows user since 2014  
-Feature phone user since 2011 😄
+Fedora Linux user since 2024 | Android user since 2018 | Windows user since 2014 | Feature phone user since 2011 😄
 
 ---
 
@@ -124,6 +121,23 @@ Fedora Workstation / KDE / Server • OpenSUSE Leap / Tumbleweed • Proxmox VE 
 
 <strong>Projects</strong>
 
-- <a href="https://www.reddit.com/r/homelab/comments/1srplwo/built_a_homelab_from_lowpower_and_mostly/">HomeLab project v1</a>
+Personal infrastructure project focused on Linux administration,
+networking, monitoring, automation, and self-hosted services.
 
+**Hardware stack:** 
+- 4x Lenovo ThinkCentre M625q + AMD E2-9000e + 4GB RAM + 32GB SSD
+- 1x ASRock D1800M + J1800 + 8GB RAM + 128GB SSD
+- 1x Gigabyte GA-H61M-DS2 + i5-3470 + GT 1030 2GB + 16GB RAM + 240GB SSD
+- 1x Gigabyte GA-Z77X-D3H + i7-3770 + GTX 1070 Ti 8GB + 32GB RAM + 2x240GB SSD + 1TB NVMe + 3x1TB 2.5" HDD
 
+**Key technologies:**
+- Linux Fedora Server | Linux Fedora KDE Plasma Desktop
+- WireGuard VPN | AdGuard DNS | Nginx Reverse Proxy
+- RustDesk | Sunshine | Moonlight
+- Prometheus + Grafana | Uptime Kuma | Homepage
+- Gitea | Wiki.js | Wekan
+- Ollama | llama.cpp | OpenWebUI | Flowise
+- Stability Matrix | ComfyUI | 
+- Custom ASP.NET Blazor app for Remote Management
+
+ <a href="https://www.reddit.com/r/homelab/comments/1srplwo/built_a_homelab_from_lowpower_and_mostly/">Reddit: HomeLab project v1</a>
