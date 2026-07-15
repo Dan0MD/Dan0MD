@@ -162,9 +162,17 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 
 <h3>🛠️ Personal HomeLab Ecosystem</h3>
 <p>Personal infrastructure project focused on Linux administration, networking, monitoring, automation, and self-hosted services.</p>
+
+
+![Alt Text](images/grafana_2026-07-15.png)
+
 <details>
+  <summary>Lab Screenshots</summary>
   
-![Alt Text](images/homepage_1.png)
+  ![Alt Text](images/homepage_1.png)
+  ![Alt Text](images/uptime-kuma_2026-07-15.png)
+  ![Alt Text](images/cockpit_2026-07-15.png)
+  ![Alt Text](images/portainer_2026-07-15.png)
 </details>
 
 <!-- <img src="images/homepage_1.png" alt="Project Screenshot" width="500"> -->
