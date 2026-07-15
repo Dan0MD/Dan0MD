@@ -162,12 +162,18 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 
 <h3>🛠️ Personal HomeLab Ecosystem</h3>
 <p>Personal infrastructure project focused on Linux administration, networking, monitoring, automation, and self-hosted services.</p>
+<details>
+  
+![Alt Text](images/homepage_1.png)
+</details>
+
+<!-- <img src="images/homepage_1.png" alt="Project Screenshot" width="500"> -->
 
 <!-- 2. NETWORK ARCHITECTURE & DEPLOYMENT MAP DROP-DOWN -->
 <details open>
   <summary>🌐 <strong>View Network Architecture & Node Placement</strong></summary>
 
-<img width="1920" height="1080" alt="Screenshot_20260715_154733" src="https://github.com/user-attachments/assets/57a5baad-c8cb-4835-92ba-58b30ab7a53d" />
+<!-- <img width="1920" height="1080" alt="Screenshot_20260715_154733" src="https://github.com/user-attachments/assets/57a5baad-c8cb-4835-92ba-58b30ab7a53d" /> -->
 
 
 <table width="850px">
