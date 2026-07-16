@@ -292,4 +292,4 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
   </ul>
 </details>
 
-![](https://komarev.com/ghpvc/?username=Dan0MD&color=blueviolet)
+<!--![](https://komarev.com/ghpvc/?username=Dan0MD&color=blueviolet) -->
