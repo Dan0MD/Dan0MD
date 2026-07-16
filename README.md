@@ -20,9 +20,10 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 <a href="https://opensuse.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opensuse.svg" height="40"/></a>
 <a href="https://almalinux.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/almalinux.svg" height="40"/></a>
 <a href="https://proxmox.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox-light.svg" height="40"/></a>
-<a href="https://microsoft.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/windows-10.svg" height="40"/></a>
 <a href="https://grapheneos.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/grapheneos.svg" height="40"/></a>
 <a href="https://lineageos.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lineage.svg" height="40"/></a>
+<a href="https://microsoft.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/windows-10.svg" height="40"/></a>
+<a href="https://microsoft.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-7.png" height="40"/></a>
 
 
 </td>
@@ -76,42 +77,45 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 <tr>
 <td><strong>Infrastructure</strong></td>
 <td>
-<a href="https://docker.com"><img src="https://skills.syvixor.com/api/icons?i=docker" height="40"/></a>
-<a href="https://wireguard.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireguard.svg" height="40"/></a>
-<a href="https://adguard.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/adguard-home.svg" height="40"/></a>
-<a href="https://nginx.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx.svg" height="40"/></a>
-<a href="https://nginxproxymanager.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx-proxy-manager.svg" height="40"/></a>
-<a href="https://grafana.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/grafana.svg" height="40"/></a>
-<a href="https://prometheus.io"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/prometheus.svg" height="40"/></a>
-<a href="https://kuma.pet"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/uptime-kuma.svg" height="40"/></a>
-<a href="https://pi-hole.net"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pi-hole.svg" height="40"/></a>
-<a href="https://caddyserver.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/caddy.svg" height="40"/></a>
-<a href="https://victoriametrics.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/victoriametrics-light.svg" height="40"/></a>
-<a href="https://gatus.io"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gatus.svg" height="40"/></a>
+<a href="https://docker.com"><img src="https://skills.syvixor.com/api/icons?i=docker" height="40" align="center"/></a>
+<a href="https://wireguard.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireguard.svg" height="40" align="center"/></a>
+<a href="https://adguard.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/adguard-home.svg" height="40" align="center"/></a>
+<a href="https://nginx.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx.svg" height="40" align="center"/></a>
+<a href="https://nginxproxymanager.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx-proxy-manager.svg" height="40" align="center"/></a>
+<a href="https://grafana.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/grafana.svg" height="40" align="center"/></a>
+<a href="https://prometheus.io"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/prometheus.svg" height="40" align="center"/></a>
+<a href="https://kuma.pet"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/uptime-kuma.svg" height="40" align="center"/></a>
+<a href="https://pi-hole.net"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pi-hole.svg" height="40" align="center"/></a>
+<a href="https://caddyserver.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/caddy.svg" height="40" align="center"/></a>
+<a href="https://victoriametrics.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/victoriametrics-light.svg" height="40" align="center"/></a>
+<a href="https://gatus.io"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gatus.svg" height="40" align="center"/></a>
+<a href="https://netbird.io"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/netbird.svg" height="32" align="center"/></a>
+<a href="https://openwrt.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openwrt.svg" height="40" align="center"/></a>
 </td>
 </tr>
 
 <tr>
 <td><strong>Control Plane</strong></td>
 <td>
-<a href="https://cockpit-project.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cockpit-light.svg" height="40"/></a>
-<a href="https://gethomepage.dev"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/homepage.svg" height="40"/></a>
-<a href="https://portainer.io"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/portainer-v1.svg" height="40"/></a>
-<a href="https://dozzle.dev"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dozzle.svg" height="40"/></a>
-<a href="https://home-assistant.io"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/home-assistant.svg" height="40"/></a>
+<a href="https://cockpit-project.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cockpit-light.svg" height="40" valign="center"/></a>
+<a href="https://gethomepage.dev"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/homepage.svg" height="40" valign="center"/></a>
+<a href="https://portainer.io"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/portainer-v1.svg" height="40" valign="center"/></a>
+<a href="https://dozzle.dev"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dozzle.svg" height="40" valign="center"/></a>
+<a href="https://home-assistant.io"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/home-assistant.svg" height="40" valign="center"/></a>
 </td>
 </tr>
 
 <tr>
 <td><strong>Services</strong></td>
 <td>
-<a href="https://gitea.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/gitea.svg" height="40"/></a>
-<a href="https://ansible.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ansible.svg" height="40"/></a>
-<a href="https://n8n.io"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/n8n.svg" height="40"/></a>
-<a href="https://js.wiki"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wikijs.svg" height="40"/></a>
-<a href="https://rustdesk.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/rustdesk.svg" height="40"/></a>
-<a href="https://app.lizardbyte.dev/Sunshine/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/sunshine.svg" height="40"/></a>
-<a href="https://immich.app"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/immich.svg" height="40"/></a>
+<a href="https://gitea.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/gitea.svg" height="40" align="center"/></a>
+<a href="https://ansible.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ansible.svg" height="40" align="center"/></a>
+<a href="https://n8n.io"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/n8n.svg" height="40" align="center"/></a>
+<a href="https://js.wiki"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wikijs.svg" height="40" align="center"/></a>
+<a href="https://rustdesk.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/rustdesk.svg" height="40" align="center"/></a>
+<a href="https://app.lizardbyte.dev/Sunshine/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/sunshine.svg" height="40" align="center"/></a>
+<a href="https://immich.app"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/immich.svg" height="40" align="center"/></a>
+<a href="https://kopia.io"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/kopia.svg" width="40" align="center"/></a>
 </td>
 </tr>
 
@@ -130,17 +134,24 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 <td><strong>Local LLM / AI</strong></td>
 <td>
 <!-- <img src="https://skills.syvixor.com/api/icons?i=lmstudio,ollama,openwebui,comfyui,stabilitymatrix" height="40"/> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/lmstudio.svg" height="40"/> -->
+<a href="https://lmstudio.ai"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/lmstudio.png" height="36"/></a>
 <a href="https://ollama.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ollama.svg" height="40"/></a>
 <a href="https://openwebui.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/open-webui.svg" height="40"/></a>
 <a href="https://stability.ai"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-webp@latest/dark/stability-color.webp" height="40"/></a>
 <a href="https://comfyui.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/comfyui.svg" height="40"/></a>
 <a href="https://flowiseai.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/flowise.svg" height="40"/></a>
-
-
+<a href="https://khoj.dev"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/khoj-light.svg" height="36"/></a>
 </td>
 </tr>
 
+<tr>
+<td><strong>Hardware / Workstation</strong></td>
+<td>
+<a href="https://dell.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dell.svg" style="filter: invert(1); padding-right: 5px;" alt="Dell" height="40"/></a>
+<a href="https://lenovo.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lenovo.svg" height="35" style="filter: invert(1); padding-right: 5px;" alt="Lenovo" width="48"/></a>
+<!-- <a href="https://gigabyte.com"><img src="https://jsdelivr.net" height="35" style="filter: invert(1);" alt="Gigabyte"/></a> -->
+</td>
+</tr>
 
 <tr>
 <td><strong>Tooling</strong></td>
@@ -151,8 +162,11 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 <a href="https://dbeaver.io"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" height="40"/></a>
 <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" height="40"/></a>
 <a href="https://github.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" height="40"/></a>
-<a href="https://obsidian.md"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/obsidian.svg" height="40"/></a>
+<a href="https://obsidian.md"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/obsidian.svg" height="40"/></a>
 <a href="https://www.arduino.cc/en/software"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/arduino.svg" height="40"/></a>
+<a href="https://www.arduino.cc/en/software"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/prusa-slicer.png" height="40"/></a>
+
+
 
 </td>
 </tr>
