@@ -14,7 +14,7 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 <table>
 <tr>
 <td width="220"><strong>Platforms</strong></td>
-<td width="790">
+<td width="780">
 <a href="https://fedoraproject.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fedora.svg" height="40" align="center"/></a>
 <a href="https://redhat.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/redhat-linux.svg" height="40" align="center"/></a>
 <a href="https://opensuse.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opensuse.svg" height="40" align="center"/></a>
@@ -24,7 +24,7 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 <a href="https://lineageos.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lineage.svg" height="40" align="center"/></a>
 <a href="https://microsoft.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/windows-10.svg" height="40" align="center"/></a>
 <a href="https://microsoft.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-7.png" height="40" align="center"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://dell.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dell.svg" height="40" align="center"/></a>
 <a href="https://lenovo.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lenovo.svg" width="40" align="center"/></a>
 <a href="https://hp.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hp.svg" width="40" align="center"/></a>
@@ -72,10 +72,10 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 
 <td width="24"></td>
 
-<td width="210" align="center">
+<td align="center">
 <strong>Scripting</strong><br>
 <a href="https://python.org"><img src="https://skills.syvixor.com/api/icons?i=python" height="40"/></a>
-<a href="https://fastapi.tiangolo.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fastapi.svg" height="40"/></a>
+<!-- <a href="https://fastapi.tiangolo.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fastapi.svg" height="40"/></a> -->
 <a href="https://opensource.com/resources/what-bash"><img src="https://skills.syvixor.com/api/icons?i=bash" height="40"/></a>
 <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.6"><img src="https://skills.syvixor.com/api/icons?i=powershell" height="40"/></a>
 </td>
@@ -157,6 +157,8 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/jetbrains.svg" height="40"/></a>
 <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/vscodium.svg" height="40"/></a>
 <a href="https://dbeaver.io"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" height="40"/></a>
+<a href="https://postgresql.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/postgresql.svg" height="40"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-sql-server.svg" height="40"/></a>
 <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" height="40"/></a>
 <a href="https://github.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" height="40"/></a>
 <a href="https://about.gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gitlab.svg" height="40"/></a>
@@ -165,10 +167,8 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 <a href="https://www.raspberrypi.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/raspberry-pi.svg" height="40"/></a>
 <a href="https://www.prusa3d.com/p/prusaslicer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/prusa-slicer.png" height="40"/></a>
 <a href="https://rxresu.mer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/reactive-resume.svg" height="40"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://postgresql.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/postgresql.svg" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-sql-server.svg" height="40"/></a>
-<a href="https://sqlite.org"><img src="https://skills.syvixor.com/api/icons?i=sqlite" height="40"/></a>
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+<!-- <a href="https://sqlite.org"><img src="https://skills.syvixor.com/api/icons?i=sqlite" height="40"/></a> -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/sqlite.svg" height="40"/> -->
 
 </td>
