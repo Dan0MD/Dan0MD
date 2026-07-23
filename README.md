@@ -13,20 +13,23 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 
 <table>
 <tr>
-<td><strong>Platforms</strong></td>
-<td>
-<a href="https://fedoraproject.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fedora.svg" height="40"/></a>
-<a href="https://redhat.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/redhat-linux.svg" height="40"/></a>
-<a href="https://opensuse.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opensuse.svg" height="40"/></a>
-<a href="https://almalinux.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/almalinux.svg" height="40"/></a>
-<a href="https://proxmox.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox-light.svg" height="40"/></a>
-<a href="https://grapheneos.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/grapheneos.svg" height="40"/></a>
-<a href="https://lineageos.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lineage.svg" height="40"/></a>
-<a href="https://microsoft.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/windows-10.svg" height="40"/></a>
-<a href="https://microsoft.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-7.png" height="40"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://dell.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dell.svg" height="40"/></a>
-<a href="https://lenovo.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lenovo.svg" height="35" width="48"/></a>
+<td width="220"><strong>Platforms</strong></td>
+<td width="790">
+<a href="https://fedoraproject.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fedora.svg" height="40" align="center"/></a>
+<a href="https://redhat.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/redhat-linux.svg" height="40" align="center"/></a>
+<a href="https://opensuse.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opensuse.svg" height="40" align="center"/></a>
+<a href="https://almalinux.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/almalinux.svg" height="40" align="center"/></a>
+<a href="https://proxmox.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox-light.svg" height="40" align="center"/></a>
+<a href="https://grapheneos.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/grapheneos.svg" height="40" align="center"/></a>
+<a href="https://lineageos.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lineage.svg" height="40" align="center"/></a>
+<a href="https://microsoft.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/windows-10.svg" height="40" align="center"/></a>
+<a href="https://microsoft.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-7.png" height="40" align="center"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://dell.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dell.svg" height="40" align="center"/></a>
+<a href="https://lenovo.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lenovo.svg" width="40" align="center"/></a>
+<a href="https://hp.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hp.svg" width="40" align="center"/></a>
+<a href="https://www.nvidia.com/en-us"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nvidia.svg" width="40" align="center"/></a>
+<a href="https://www.ugreen.com/en-ae"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ugreen.svg" height="40" align="center"/></a>
 <!-- <a href="https://gigabyte.com"><img src="https://jsdelivr.net" height="35" style="filter: invert(1);" alt="Gigabyte"/></a> -->
 
 </td>
@@ -38,10 +41,12 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 
 <table>
 <tr>
-<td align="center">
+<td width="250" align="center">
 <strong>Mainstack</strong><br>
 <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet"><img src="https://skills.syvixor.com/api/icons?i=dotnet" height="40"/></a>
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://skills.syvixor.com/api/icons?i=csharp" height="40"/></a>
+<!-- <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://skills.syvixor.com/api/icons?i=csharp" height="40"/></a> -->
+<a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/asp-net-core.svg" height="40"/></a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/csharp.svg" height="40"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/"><img src="https://skills.syvixor.com/api/icons?i=xaml" height="40"/></a>
 <a href="https://www.w3schools.com/sql/"><img src="https://skills.syvixor.com/api/icons?i=sql" height="40"/></a>
 </td>
@@ -50,7 +55,9 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 
 <td align="center">
 <strong>Embedded</strong><br>
-<a href="https://www.geeksforgeeks.org/electronics-engineering/embedded-c/"><img src="https://skills.syvixor.com/api/icons?i=c,cpp" height="40"/></a>
+<!-- <a href="https://www.geeksforgeeks.org/electronics-engineering/embedded-c/"><img src="https://skills.syvixor.com/api/icons?i=c,cpp" height="40"/></a> -->
+<a href="https://www.geeksforgeeks.org/electronics-engineering/embedded-c/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/c.svg" height="40"/></a>
+<a href="https://www.geeksforgeeks.org/electronics-engineering/embedded-c/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cpp.svg" height="40"/></a>
 <!-- <img src="https://skills.syvixor.com/api/icons?i=c,cpp" height="40"/> -->
 </td>
 
@@ -59,15 +66,16 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 <td align="center">
 <strong>Origins</strong><br>
 <a href="https://processing.org"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Processing_4.0b1_Icon.png" height="40"/></a>
+<!-- <a href="https://java.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/java.svg" height="40"/></a> -->
 <a href="https://java.com"><img src="https://skills.syvixor.com/api/icons?i=java" height="40"/></a>
-<!-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/java.svg" height="40"/> -->
 </td>
 
 <td width="24"></td>
 
-<td align="center">
+<td width="210" align="center">
 <strong>Scripting</strong><br>
 <a href="https://python.org"><img src="https://skills.syvixor.com/api/icons?i=python" height="40"/></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fastapi.svg" height="40"/></a>
 <a href="https://opensource.com/resources/what-bash"><img src="https://skills.syvixor.com/api/icons?i=bash" height="40"/></a>
 <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.6"><img src="https://skills.syvixor.com/api/icons?i=powershell" height="40"/></a>
 </td>
@@ -146,14 +154,18 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 <!-- <img src="https://skills.syvixor.com/api/icons?i=visualstudio,visualstudiocode,dbeaver,git,github,obsidian,arduino" height="40"/> -->
 <a href="https://visualstudio.microsoft.com"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" height="40"/></a>
 <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/visual-studio-code.svg" height="40"/></a>
+<a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/jetbrains.svg" height="40"/></a>
+<a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/vscodium.svg" height="40"/></a>
 <a href="https://dbeaver.io"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/DBeaver_logo.png" height="40"/></a>
 <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" height="40"/></a>
 <a href="https://github.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" height="40"/></a>
+<a href="https://about.gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gitlab.svg" height="40"/></a>
 <a href="https://obsidian.md"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/obsidian.svg" height="40"/></a>
 <a href="https://www.arduino.cc/en/software"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/arduino.svg" height="40"/></a>
-<a href="https://www.arduino.cc/en/software"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/prusa-slicer.png" height="40"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.raspberrypi.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/raspberry-pi.svg" height="40"/></a>
+<a href="https://www.prusa3d.com/p/prusaslicer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/prusa-slicer.png" height="40"/></a>
+<a href="https://rxresu.mer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/reactive-resume.svg" height="40"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://postgresql.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/postgresql.svg" height="40"/></a>
 <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/microsoft-sql-server.svg" height="40"/></a>
 <a href="https://sqlite.org"><img src="https://skills.syvixor.com/api/icons?i=sqlite" height="40"/></a>
