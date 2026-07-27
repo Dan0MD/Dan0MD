@@ -20,16 +20,17 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 <a href="https://opensuse.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opensuse.svg" height="40" align="center"/></a>
 <a href="https://almalinux.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/almalinux.svg" height="40" align="center"/></a>
 <a href="https://proxmox.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox-light.svg" height="40" align="center"/></a>
+<a href="https://qemu.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/qemu.svg" height="40" align="center"/></a>
 <a href="https://grapheneos.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/grapheneos.svg" height="40" align="center"/></a>
 <a href="https://lineageos.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lineage.svg" height="40" align="center"/></a>
 <a href="https://microsoft.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/windows-10.svg" height="40" align="center"/></a>
-<a href="https://microsoft.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-7.png" height="40" align="center"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <a href="https://microsoft.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-7.png" height="40" align="center"/></a> -->
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <a href="https://dell.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dell.svg" height="40" align="center"/></a>
-<a href="https://lenovo.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lenovo.svg" width="40" align="center"/></a>
-<a href="https://hp.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hp.svg" width="40" align="center"/></a>
+<a href="https://lenovo.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lenovo.svg" width="48" align="center"/></a>
+<!-- <a href="https://hp.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hp.svg" width="40" align="center"/></a> -->
 <a href="https://www.nvidia.com/en-us"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nvidia.svg" width="40" align="center"/></a>
-<a href="https://www.ugreen.com/en-ae"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ugreen.svg" height="40" align="center"/></a>
+<!-- <a href="https://www.ugreen.com/en-ae"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ugreen.svg" height="40" align="center"/></a> -->
 <!-- <a href="https://gigabyte.com"><img src="https://jsdelivr.net" height="35" style="filter: invert(1);" alt="Gigabyte"/></a> -->
 
 </td>
