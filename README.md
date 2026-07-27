@@ -3,7 +3,16 @@
 
 Linux • Infrastructure • Self-hosting • Hardware • Experimental Computing • DIY Engineering
 
-Fedora Linux user since 2024 | Android user since 2018 | Windows user since 2014 | Feature phone user since 2011 😄
+<!--Fedora Linux user since 2024 | Android user since 2018 | Windows user since 2014 | Feature phone user since 2011 😄-->
+
+#### 📅 Technology Journey
+
+- **2011** 📱 Feature phones → first interaction with personal technology
+- **2014** 🖥️ Windows → PC maintenance and customization
+- **2018** 🤖 Android → ecosystem exploration and daily usage
+- **2024** 🐧 Fedora Server → first Linux server experiments
+- **2025** 🐧 Fedora KDE Plasma → daily workflows and administration
+- **2026** 🏠 Linux across all machines + Homelab → self-hosted infrastructure
 
 ---
 
@@ -177,8 +186,6 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 <p>Personal infrastructure project focused on Linux administration, networking, monitoring, automation, and self-hosted services.</p>
 
 
-<!-- <img src="images/homepage_1.png" alt="Project Screenshot" width="500"> -->
-
 <!-- 2. NETWORK ARCHITECTURE & DEPLOYMENT MAP DROP-DOWN -->
 <details>
   <summary>🌐 <strong>View Network Architecture & Node Placement</strong></summary>
@@ -295,7 +302,27 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 </details>
 
 <details>
-  <summary>🔗 <strong>Engineering Inspiration</strong></summary>
+  <summary><strong>Lab Screenshots (click to open)</summary>
+
+  ![Alt Text](images/grafana_2026-07-15.png)
+  ![Alt Text](images/homepage_1.png)
+  ![Alt Text](images/uptime-kuma_2026-07-15.png)
+  ![Alt Text](images/cockpit_2026-07-15.png)
+  ![Alt Text](images/portainer_2026-07-15.png)
+</details>
+
+---
+
+## 🔨 Currently Working On
+
+- 🐑 SheePilot - HomeLab automation manager
+- 🪝 Crook - HomeLab TUI app
+- 🏠 Expanding self-hosted infrastructure
+- 🤖 Local LLM experiments
+- 🔌 Embedded electronics projects
+
+<details>
+  <summary>🧠 <strong>Systems Thinking Inspirations</strong></summary>
 
 Beyond traditional engineering tools, some games strongly influenced how I think about:
 automation, optimization, resource management, and complex systems.
@@ -317,14 +344,6 @@ automation, optimization, resource management, and complex systems.
 
 </details>
 
-<details>
-  <summary><strong>Lab Screenshots (click to open)</summary>
+---
 
-  ![Alt Text](images/grafana_2026-07-15.png)
-  ![Alt Text](images/homepage_1.png)
-  ![Alt Text](images/uptime-kuma_2026-07-15.png)
-  ![Alt Text](images/cockpit_2026-07-15.png)
-  ![Alt Text](images/portainer_2026-07-15.png)
-</details>
 
-<!--![](https://komarev.com/ghpvc/?username=Dan0MD&color=blueviolet) -->
