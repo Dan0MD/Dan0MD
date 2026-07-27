@@ -13,7 +13,7 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 
 <table>
 <tr>
-<td width="220"><strong>Platforms</strong></td>
+<td width="220"><strong>Platforms & Hardware</strong></td>
 <td width="780">
 <a href="https://fedoraproject.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fedora.svg" height="40" align="center"/></a>
 <a href="https://redhat.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/redhat-linux.svg" height="40" align="center"/></a>
@@ -24,14 +24,10 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 <a href="https://grapheneos.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/grapheneos.svg" height="40" align="center"/></a>
 <a href="https://lineageos.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lineage.svg" height="40" align="center"/></a>
 <a href="https://microsoft.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/windows-10.svg" height="40" align="center"/></a>
-<!-- <a href="https://microsoft.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/windows-7.png" height="40" align="center"/></a> -->
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <a href="https://dell.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dell.svg" height="40" align="center"/></a>
 <a href="https://lenovo.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lenovo.svg" width="48" align="center"/></a>
-<!-- <a href="https://hp.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hp.svg" width="40" align="center"/></a> -->
+<a href="https://gigabyte.com"><img alt="image" src="https://github.com/user-attachments/assets/d79bf591-1f88-411d-aa26-54a26a811ba3" width="40" height="40" align="center"/>
 <a href="https://www.nvidia.com/en-us"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nvidia.svg" width="40" align="center"/></a>
-<!-- <a href="https://www.ugreen.com/en-ae"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ugreen.svg" height="40" align="center"/></a> -->
-<!-- <a href="https://gigabyte.com"><img src="https://jsdelivr.net" height="35" style="filter: invert(1);" alt="Gigabyte"/></a> -->
 
 </td>
 </tr>
@@ -45,7 +41,6 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 <td width="250" align="center">
 <strong>Mainstack</strong><br>
 <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet"><img src="https://skills.syvixor.com/api/icons?i=dotnet" height="40"/></a>
-<!-- <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://skills.syvixor.com/api/icons?i=csharp" height="40"/></a> -->
 <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/asp-net-core.svg" height="40"/></a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/csharp.svg" height="40"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/"><img src="https://skills.syvixor.com/api/icons?i=xaml" height="40"/></a>
@@ -59,7 +54,6 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 <!-- <a href="https://www.geeksforgeeks.org/electronics-engineering/embedded-c/"><img src="https://skills.syvixor.com/api/icons?i=c,cpp" height="40"/></a> -->
 <a href="https://www.geeksforgeeks.org/electronics-engineering/embedded-c/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/c.svg" height="40"/></a>
 <a href="https://www.geeksforgeeks.org/electronics-engineering/embedded-c/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cpp.svg" height="40"/></a>
-<!-- <img src="https://skills.syvixor.com/api/icons?i=c,cpp" height="40"/> -->
 </td>
 
 <td width="24"></td>
@@ -95,14 +89,11 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 <a href="https://netbird.io"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/netbird.svg" height="32" align="center"/></a>
 <a href="https://adguard.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/adguard-home.svg" height="40" align="center"/></a>
 <a href="https://pi-hole.net"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pi-hole.svg" height="40" align="center"/></a>
-<!-- <a href="https://nginx.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx.svg" height="40" align="center"/></a> -->
 <a href="https://nginxproxymanager.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nginx-proxy-manager.svg" height="40" align="center"/></a>
 <a href="https://caddyserver.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/caddy.svg" height="40" align="center"/></a>
 <a href="https://prometheus.io"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/prometheus.svg" height="40" align="center"/></a>
 <a href="https://victoriametrics.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/victoriametrics-light.svg" height="40" align="center"/></a>
 <a href="https://grafana.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/grafana.svg" height="40" align="center"/></a>
-<!-- <a href="https://kuma.pet"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/uptime-kuma.svg" height="40" align="center"/></a> -->
-<!-- <a href="https://gatus.io"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gatus.svg" height="40" align="center"/></a> -->
 </td>
 </tr>
 
@@ -111,7 +102,7 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 <td>
 <a href="https://cockpit-project.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cockpit-light.svg" height="40" align="center"/></a>
 <a href="https://gethomepage.dev"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/homepage.svg" height="40" align="center"/></a>
-<a href="https://portainer.io"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/portainer-v1.svg" height="40" align="center"/></a>
+<a href="https://portainer.io"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/portainer.svg" height="40" align="center"/></a>
 <a href="https://kuma.pet"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/uptime-kuma.svg" height="40" align="center"/></a>
 <a href="https://gatus.io"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gatus.svg" height="40" align="center"/></a>
 <a href="https://dozzle.dev"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/dozzle.svg" height="40" align="center"/></a>
@@ -133,11 +124,9 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 </td>
 </tr>
 
-
 <tr>
 <td><strong>Local LLM / AI</strong></td>
 <td>
-<!-- <img src="https://skills.syvixor.com/api/icons?i=lmstudio,ollama,openwebui,comfyui,stabilitymatrix" height="40"/> -->
 <a href="https://lmstudio.ai"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/lmstudio.png" height="36"/></a>
 <a href="https://ollama.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ollama.svg" height="40"/></a>
 <a href="https://openwebui.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/open-webui.svg" height="40"/></a>
@@ -148,11 +137,9 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 </td>
 </tr>
 
-
 <tr>
-<td><strong>Dev / Tooling</strong></td>
+<td><strong>IDE / Dev / Tooling</strong></td>
 <td>
-<!-- <img src="https://skills.syvixor.com/api/icons?i=visualstudio,visualstudiocode,dbeaver,git,github,obsidian,arduino" height="40"/> -->
 <a href="https://visualstudio.microsoft.com"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" height="40"/></a>
 <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/visual-studio-code.svg" height="40"/></a>
 <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/jetbrains.svg" height="40"/></a>
@@ -164,14 +151,22 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 <a href="https://github.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/github-light.svg" height="40"/></a>
 <a href="https://about.gitlab.com/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gitlab.svg" height="40"/></a>
 <a href="https://obsidian.md"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/obsidian.svg" height="40"/></a>
-<a href="https://www.arduino.cc/en/software"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/arduino.svg" height="40"/></a>
-<a href="https://www.raspberrypi.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/raspberry-pi.svg" height="40"/></a>
-<a href="https://www.prusa3d.com/p/prusaslicer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/prusa-slicer.png" height="40"/></a>
-<a href="https://rxresu.mer"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/reactive-resume.svg" height="40"/></a>
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-<!-- <a href="https://sqlite.org"><img src="https://skills.syvixor.com/api/icons?i=sqlite" height="40"/></a> -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/sqlite.svg" height="40"/> -->
+<a href="https://www.yworks.com/products/yed"><img src="https://github.com/user-attachments/assets/d1f59a63-419d-4580-ad34-788efad0188b" width="40" height="40"/></a>
+</td>
+</tr>
 
+<tr>
+<td><strong>CAD / Embedded</strong></td>
+<td>
+<a href="https://www.kicad.org"><img alt="image" src="https://github.com/user-attachments/assets/e8da5110-265d-4b31-9427-b9abaff445d0" width="40" height="40" align="center"/></a>
+<a href="https://easyeda.com"><img alt="image" src="https://github.com/user-attachments/assets/23f6ec61-ce4a-4c52-ba4b-c27a50210680" width="40" height="40" align="center"/></a>
+<a href="https://www.autodesk.com/products/fusion-360/personal"><img alt="image" src="https://github.com/user-attachments/assets/6c82db6f-2b52-4f50-8aae-5605fd2de939" width="40" height="40" align="center"/></a>
+<a href="https://www.solidworks.com"><img alt="image" src="https://github.com/user-attachments/assets/fa4be042-0c80-4efe-be61-8f07ffb082ad" width="40" height="40" align="center"/></a>
+<a href="https://www.st.com/en/development-tools/stm32cubeide.html"><img alt="image" src="https://github.com/user-attachments/assets/0ae568c8-e04f-4dd1-8642-45a58163b00b" width="40" height="40" align="center"/></a>
+<a href="https://www.raspberrypi.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/raspberry-pi.svg" height="40" align="center"/></a>
+<a href="https://www.espressif.com/en/products/socs/esp32"><img alt="image" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/espressif.svg" height="36" align="center"/></a>
+<a href="https://www.arduino.cc/en/software"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/arduino.svg" height="40" align="center"/></a>
+<a href="https://www.arduino.cc/en/software"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mosquitto.svg" height="36" align="center"/></a>
 </td>
 </tr>
 </table>
@@ -181,8 +176,6 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 <h3>🛠️ Personal HomeLab Ecosystem</h3>
 <p>Personal infrastructure project focused on Linux administration, networking, monitoring, automation, and self-hosted services.</p>
 
-
-![Alt Text](images/grafana_2026-07-15.png)
 
 <!-- <img src="images/homepage_1.png" alt="Project Screenshot" width="500"> -->
 
@@ -302,8 +295,32 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 </details>
 
 <details>
+  <summary>🔗 <strong>Engineering Inspiration</strong></summary>
+
+Beyond traditional engineering tools, some games strongly influenced how I think about:
+automation, optimization, resource management, and complex systems.
+
+| Game | Concepts |
+|---|---|
+| ⚙️ Factorio | Automation, pipelines, logistics, optimization |
+| ⛏️ Minecraft | Creativity, infrastructure, self-hosting, automation |
+| 🏰 Stronghold Crusader | Economy, planning, resource management |
+| 🏛️ Age of Empires II | Technology trees and system progression |
+| 🎈 Bloons TD | Optimization and upgrade strategies |
+| 🧟 State of Decay | Emergent systems and resource management |
+| 🖥️ Counter-Strike Source v34 | Self-hosted LAN servers, command-line administration, game configuration |
+| 🌍 Orion Sandbox | Sandbox experimentation and creative systems |
+| 📱 PUBG Mobile | Tactical planning, teamwork, decision making |
+| ⚡ Reactor Incremental / Reactor Idle | Incremental systems, scaling, optimization |
+| 🏰 The Perfect Tower | Progression systems and optimization |
+| ⚔️ Madness Project Nexus | Complex combat systems and experimentation |
+
+</details>
+
+<details>
   <summary><strong>Lab Screenshots (click to open)</summary>
-  
+
+  ![Alt Text](images/grafana_2026-07-15.png)
   ![Alt Text](images/homepage_1.png)
   ![Alt Text](images/uptime-kuma_2026-07-15.png)
   ![Alt Text](images/cockpit_2026-07-15.png)
