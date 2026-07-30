@@ -42,7 +42,7 @@ Years later, I accidentally damaged a capacitor near the CPU socket. After spend
 
 <table>
 <tr>
-<td width="220"><strong>Platforms & Hardware</strong></td>
+<td width="160"><strong>Platforms & Hardware</strong></td>
 <td width="780" colspan="4">
 <a href="https://fedoraproject.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fedora.svg" height="40" align="center"/></a>
 <a href="https://redhat.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/redhat-linux.svg" height="40" align="center"/></a>
@@ -167,7 +167,7 @@ Years later, I accidentally damaged a capacitor near the CPU socket. After spend
 </tr>
 
 <tr>
-<td><strong>IDE / Dev / Tooling</strong></td>
+<td><strong>Dev / Tooling</strong></td>
 <td colspan="4">
 <a href="https://visualstudio.microsoft.com"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" height="40"/></a>
 <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/visual-studio-code.svg" height="40"/></a>
