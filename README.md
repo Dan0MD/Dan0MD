@@ -5,25 +5,45 @@ Linux • Infrastructure • Self-hosting • Hardware • Experimental Computin
 
 <!--Fedora Linux user since 2024 | Android user since 2018 | Windows user since 2014 | Feature phone user since 2011 😄-->
 
+<details>
+<summary>🚀 <strong>From a 2 GB DDR2 PC to a Linux Homelab</strong> <em>(My Journey)</em></summary>
+
 #### 📅 Technology Journey
 
 - **2011** 📱 Feature phones → first interaction with personal technology
-- **2014** 🖥️ Windows → PC maintenance and customization
+- **2014** 🖥️ Windows → PC learning, maintenance, and customization
 - **2018** 🤖 Android → ecosystem exploration and daily usage
 - **2024** 🐧 Fedora Server → first Linux server experiments
-- **2025** 🐧 Fedora KDE Plasma → daily workflows and administration
+- **2025** 🐧 Fedora KDE → adaptation to Plasma Desktop
 - **2026** 🏠 Linux across all machines + Homelab → self-hosted infrastructure
 
----
+### First PC
 
-Fedora KDE/Server • AlmaLinux • OpenSUSE Leap/Tumbleweed • Proxmox VE • Windows deployment & maintenance
+**2014–2022**
+
+- **Motherboard:** ASUS M2N68-LA (HP Narra3-GL8E)
+- **CPU:** AMD Athlon 64 X2 4000+
+- **GPU:** NVIDIA GeForce 6150SE
+- **Memory:** 2 GB DDR2
+- **Storage:** 80 GB HDD
+
+This machine introduced me to PC maintenance, Windows troubleshooting, hardware upgrades, and eventually sparked my interest in systems engineering.
+
+Originally ran **Windows 7**, which suited the hardware well. It was later upgraded to **Windows 10**, but the lack of proper graphics drivers significantly reduced performance. Reinstalling **Windows 8.1** improved usability, though Windows 7 remained the best fit for the hardware.
+
+Years later, I accidentally damaged a capacitor near the CPU socket. After spending months on a shelf, the motherboard was repaired by replacing the capacitor, bringing the machine back to life. It still works today as my retro LAN system.
+
+</details>
+
+
+<!--Fedora KDE/Server • AlmaLinux • OpenSUSE Leap/Tumbleweed • Proxmox VE • Windows deployment & maintenance-->
 
 ---
 
 <table>
 <tr>
 <td width="220"><strong>Platforms & Hardware</strong></td>
-<td width="780">
+<td width="780" colspan="4">
 <a href="https://fedoraproject.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/fedora.svg" height="40" align="center"/></a>
 <a href="https://redhat.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/redhat-linux.svg" height="40" align="center"/></a>
 <a href="https://opensuse.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/opensuse.svg" height="40" align="center"/></a>
@@ -43,10 +63,10 @@ Fedora KDE/Server • AlmaLinux • OpenSUSE Leap/Tumbleweed • Proxmox VE • 
   
 <tr>
 <td><strong>Languages / Frameworks</strong></td>
-<td>
+<!-- <td> -->
 
-<table>
-<tr>
+<!-- <table>
+<tr> -->
 <td width="250" align="center">
 <strong>Mainstack</strong><br>
 <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet"><img src="https://skills.syvixor.com/api/icons?i=dotnet" height="40"/></a>
@@ -56,7 +76,7 @@ Fedora KDE/Server • AlmaLinux • OpenSUSE Leap/Tumbleweed • Proxmox VE • 
 <a href="https://www.w3schools.com/sql/"><img src="https://skills.syvixor.com/api/icons?i=sql" height="40"/></a>
 </td>
 
-<td width="24"></td>
+<!-- <td width="12"></td> -->
 
 <td align="center">
 <strong>Embedded</strong><br>
@@ -65,7 +85,7 @@ Fedora KDE/Server • AlmaLinux • OpenSUSE Leap/Tumbleweed • Proxmox VE • 
 <a href="https://www.geeksforgeeks.org/electronics-engineering/embedded-c/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/cpp.svg" height="40"/></a>
 </td>
 
-<td width="24"></td>
+<!-- <td width="12"></td> -->
 
 <td align="center">
 <strong>Origins</strong><br>
@@ -74,7 +94,7 @@ Fedora KDE/Server • AlmaLinux • OpenSUSE Leap/Tumbleweed • Proxmox VE • 
 <a href="https://java.com"><img src="https://skills.syvixor.com/api/icons?i=java" height="40"/></a>
 </td>
 
-<td width="24"></td>
+<!-- <td width="12"></td> -->
 
 <td align="center">
 <strong>Scripting</strong><br>
@@ -83,15 +103,15 @@ Fedora KDE/Server • AlmaLinux • OpenSUSE Leap/Tumbleweed • Proxmox VE • 
 <a href="https://opensource.com/resources/what-bash"><img src="https://skills.syvixor.com/api/icons?i=bash" height="40"/></a>
 <a href="https://learn.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.6"><img src="https://skills.syvixor.com/api/icons?i=powershell" height="40"/></a>
 </td>
-</tr>
-</table>
+<!-- </tr>
+</table> -->
 
 </td>
 </tr>
 
 <tr>
 <td><strong>Infrastructure</strong></td>
-<td>
+<td colspan="4">
 <a href="https://docker.com"><img src="https://skills.syvixor.com/api/icons?i=docker" height="40" align="center"/></a>
 <a href="https://openwrt.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/openwrt.svg" height="40" align="center"/></a>
 <a href="https://wireguard.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireguard.svg" height="40" align="center"/></a>
@@ -109,7 +129,7 @@ Fedora KDE/Server • AlmaLinux • OpenSUSE Leap/Tumbleweed • Proxmox VE • 
 
 <tr>
 <td><strong>Control Plane</strong></td>
-<td>
+<td colspan="4">
 <a href="https://cockpit-project.org"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/cockpit-light.svg" height="40" align="center"/></a>
 <a href="https://gethomepage.dev"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/homepage.svg" height="40" align="center"/></a>
 <a href="https://portainer.io"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/portainer.svg" height="40" align="center"/></a>
@@ -122,7 +142,7 @@ Fedora KDE/Server • AlmaLinux • OpenSUSE Leap/Tumbleweed • Proxmox VE • 
 
 <tr>
 <td><strong>Services</strong></td>
-<td>
+<td colspan="4">
 <a href="https://gitea.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/gitea.svg" height="40" align="center"/></a>
 <!-- <a href="https://n8n.io"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/n8n.svg" height="40" align="center"/></a> -->
 <a href="https://js.wiki"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wikijs.svg" height="40" align="center"/></a>
@@ -135,7 +155,7 @@ Fedora KDE/Server • AlmaLinux • OpenSUSE Leap/Tumbleweed • Proxmox VE • 
 
 <tr>
 <td><strong>Local LLM / AI</strong></td>
-<td>
+<td colspan="4">
 <a href="https://lmstudio.ai"><img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-png@latest/dark/lmstudio.png" height="36"/></a>
 <a href="https://ollama.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ollama.svg" height="40"/></a>
 <a href="https://openwebui.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/open-webui.svg" height="40"/></a>
@@ -148,7 +168,7 @@ Fedora KDE/Server • AlmaLinux • OpenSUSE Leap/Tumbleweed • Proxmox VE • 
 
 <tr>
 <td><strong>IDE / Dev / Tooling</strong></td>
-<td>
+<td colspan="4">
 <a href="https://visualstudio.microsoft.com"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Visual_Studio_Icon_2022.svg" height="40"/></a>
 <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/visual-studio-code.svg" height="40"/></a>
 <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/jetbrains.svg" height="40"/></a>
@@ -166,7 +186,7 @@ Fedora KDE/Server • AlmaLinux • OpenSUSE Leap/Tumbleweed • Proxmox VE • 
 
 <tr>
 <td><strong>CAD / Embedded</strong></td>
-<td>
+<td colspan="4">
 <a href="https://www.kicad.org"><img alt="image" src="https://github.com/user-attachments/assets/e8da5110-265d-4b31-9427-b9abaff445d0" width="40" height="40" align="center"/></a>
 <a href="https://easyeda.com"><img alt="image" src="https://github.com/user-attachments/assets/23f6ec61-ce4a-4c52-ba4b-c27a50210680" width="40" height="40" align="center"/></a>
 <a href="https://www.autodesk.com/products/fusion-360/personal"><img alt="image" src="https://github.com/user-attachments/assets/6c82db6f-2b52-4f50-8aae-5605fd2de939" width="40" height="40" align="center"/></a>
