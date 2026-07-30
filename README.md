@@ -16,7 +16,7 @@ Linux • Infrastructure • Self-hosting • Hardware • Experimental Computin
 
 ---
 
-Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed • Proxmox VE • Windows deployment & maintenance
+Fedora KDE/Server • AlmaLinux • OpenSUSE Leap/Tumbleweed • Proxmox VE • Windows deployment & maintenance
 
 ---
 
@@ -103,6 +103,7 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 <a href="https://prometheus.io"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/prometheus.svg" height="40" align="center"/></a>
 <a href="https://victoriametrics.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/victoriametrics-light.svg" height="40" align="center"/></a>
 <a href="https://grafana.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/grafana.svg" height="40" align="center"/></a>
+<a href="https://ansible.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ansible.svg" height="40" align="center"/></a>
 </td>
 </tr>
 
@@ -123,8 +124,7 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 <td><strong>Services</strong></td>
 <td>
 <a href="https://gitea.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/gitea.svg" height="40" align="center"/></a>
-<a href="https://ansible.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/ansible.svg" height="40" align="center"/></a>
-<a href="https://n8n.io"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/n8n.svg" height="40" align="center"/></a>
+<!-- <a href="https://n8n.io"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/n8n.svg" height="40" align="center"/></a> -->
 <a href="https://js.wiki"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wikijs.svg" height="40" align="center"/></a>
 <a href="https://rustdesk.com"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/rustdesk.svg" height="40" align="center"/></a>
 <a href="https://app.lizardbyte.dev/Sunshine/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/sunshine.svg" height="40" align="center"/></a>
@@ -182,13 +182,13 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 
 <hr>
 
-<h3>🛠️ Personal HomeLab Ecosystem</h3>
+<h2>🛠️ Personal HomeLab Ecosystem</h3>
 <p>Personal infrastructure project focused on Linux administration, networking, monitoring, automation, and self-hosted services.</p>
 
 
 <!-- 2. NETWORK ARCHITECTURE & DEPLOYMENT MAP DROP-DOWN -->
 <details>
-  <summary>🌐 <strong>View Network Architecture & Node Placement</strong></summary>
+  <summary>🌍 <strong>Node Placement & Service Purpose</strong></summary>
 
 <!-- <img width="1920" height="1080" alt="Screenshot_20260715_154733" src="https://github.com/user-attachments/assets/57a5baad-c8cb-4835-92ba-58b30ab7a53d" /> -->
 
@@ -228,9 +228,19 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 </table>
 </details>
 
+<details>
+  <summary>🌐 <strong>VPN & Remote Access Architecture</strong></summary>
+
+ - Site-to-site VPN for secure communication between physical locations.
+   
+ - VPN mesh architecture using NetBird for flexible peer-to-peer connectivity between infrastructure nodes.
+   
+ - Centralized WireGuard VPN for legacy remote access scenarios using a traditional hub-and-spoke model.
+  
+</details>
 
 <details>
-  <summary>💻 <strong>View Full Hardware Stack & Specifications</strong></summary>
+  <summary>💻 <strong>Full Hardware Stack & Specifications</strong></summary>
   <br>
   <!-- RESOURCE METRICS DASHBOARD -->
   <blockquote>
@@ -302,7 +312,7 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 </details>
 
 <details>
-  <summary><strong>Lab Screenshots (click to open)</summary>
+  <summary>📷 <strong>Lab Screenshots</summary>
 
   ![Alt Text](images/grafana_2026-07-15.png)
   ![Alt Text](images/homepage_1.png)
@@ -313,18 +323,20 @@ Fedora Workstation / KDE / Server • AlmaLinux • OpenSUSE Leap / Tumbleweed �
 
 ---
 
-## 🔨 Currently Working On
+### 🔨 Currently Working On
 
 - 🐑 SheePilot - HomeLab automation manager
-- 🪝 Crook - HomeLab TUI app
+- 🪝 Crook - HomeLab CLI/TUI app
 - 🏠 Expanding self-hosted infrastructure
 - 🤖 Local LLM experiments
 - 🔌 Embedded electronics projects
 
+---
+
 <details>
   <summary>🧠 <strong>Systems Thinking Inspirations</strong></summary>
 
-Beyond traditional engineering tools, some games strongly influenced how I think about:
+- Beyond traditional engineering tools, some games strongly influenced how I think about:
 automation, optimization, resource management, and complex systems.
 
 | Game | Concepts |
