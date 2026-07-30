@@ -399,4 +399,25 @@ automation, optimization, resource management, and complex systems.
 
 ---
 
+<details>
+  <summary>🍷 <strong>Random Engineering Thought</strong> (please do not give this to TSMC)</summary>
 
+ - I'm waiting for the day Moldovans start working at TSMC.
+We'll optimize the fabrication process so much that we'll manufacture
+transistors half the size of an atom.
+
+ - The secret? Get the atom drunk on homemade wine so it forgets
+about quantum mechanics.
+
+</details>
+
+<!-- <details>
+  <summary>🍷 <strong>Random Engineering Thought</strong></summary>
+
+> Waiting for the day Moldovan engineers join TSMC and optimize the process so much that we create half-an-atom transistors.
+>
+> The secret technology? Homemade wine — because even atoms need motivation to ignore quantum mechanics.
+
+</details> -->
+
+---
