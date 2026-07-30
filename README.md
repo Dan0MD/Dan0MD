@@ -57,6 +57,7 @@ Years later, I accidentally damaged a capacitor near the CPU socket. After spend
 <a href="https://lenovo.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/lenovo.svg" width="48" align="center"/></a>
 <a href="https://gigabyte.com"><img alt="image" src="https://github.com/user-attachments/assets/d79bf591-1f88-411d-aa26-54a26a811ba3" width="40" height="40" align="center"/>
 <a href="https://www.nvidia.com/en-us"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/nvidia.svg" width="40" align="center"/></a>
+<!-- <a href="https://www.nvidia.com/en-us"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shelly.svg" width="36" align="center"/></a> -->
 
 </td>
 </tr>
@@ -195,7 +196,8 @@ Years later, I accidentally damaged a capacitor near the CPU socket. After spend
 <a href="https://www.raspberrypi.com"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/raspberry-pi.svg" height="40" align="center"/></a>
 <a href="https://www.espressif.com/en/products/socs/esp32"><img alt="image" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/espressif.svg" height="36" align="center"/></a>
 <a href="https://www.arduino.cc/en/software"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/arduino.svg" height="40" align="center"/></a>
-<a href="https://www.arduino.cc/en/software"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mosquitto.svg" height="36" align="center"/></a>
+<a href="https://mosquitto.org"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/mosquitto.svg" height="36" align="center"/></a>
+<a href="https://www.shelly.com/?srsltid=AfmBOoor0WEs7SqiWw6C4UmxURW-WhqCOXRGi5SNICESZ_-0hW9mLGcZ"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shelly.svg" width="36" align="center"/></a>
 </td>
 </tr>
 </table>
@@ -377,7 +379,7 @@ Years later, I accidentally damaged a capacitor near the CPU socket. After spend
 <details>
   <summary>🧠 <strong>Systems Thinking Inspirations</strong></summary>
 
-- Beyond traditional engineering tools, some games strongly influenced how I think about:
+> - Beyond traditional engineering tools, some games strongly influenced how I think about:
 automation, optimization, resource management, and complex systems.
 
 | Game | Concepts |
@@ -402,11 +404,11 @@ automation, optimization, resource management, and complex systems.
 <details>
   <summary>🍷 <strong>Random Engineering Thought</strong> (please do not give this to TSMC)</summary>
 
- - I'm waiting for the day Moldovans start working at TSMC.
+> I'm waiting for the day Moldovans start working at TSMC.
 We'll optimize the fabrication process so much that we'll manufacture
 transistors half the size of an atom.
 
- - The secret? Get the atom drunk on homemade wine so it forgets
+> The secret? Get the atom drunk on homemade wine so it forgets
 about quantum mechanics.
 
 </details>
