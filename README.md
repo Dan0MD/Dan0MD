@@ -251,13 +251,36 @@ Years later, I accidentally damaged a capacitor near the CPU socket. After spend
 <details>
   <summary>🌐 <strong>VPN & Remote Access Architecture</strong></summary>
 
+<br>
+
+| Component | Technology | Purpose | Architecture |
+|---|---|---|---|
+| Site Connectivity | NetBird | Connects remote infrastructure locations into a unified private network | Mesh VPN |
+| Remote Administration | WireGuard | Traditional VPN access for remote management and legacy clients | Hub-and-spoke |
+| Node Communication | Private VPN overlay | Enables communication between homelab nodes without exposing services publicly | Private network layer |
+| Remote Access | RustDesk / Sunshine / Moonlight | Remote desktop and graphical access to workstations and servers | Remote control layer |
+| Service Exposure | Caddy / Nginx Proxy Manager | Reverse proxy for selected self-hosted services | Controlled public/private endpoints |
+| Access Control | Firewall rules + DNS filtering | Network-level restrictions and service isolation | Defense-in-depth |
+
+</details>
+
+<!-- <details>
+  <summary>🌐 <strong>VPN & Remote Access Architecture</strong></summary>
+
  - Site-to-site VPN for secure communication between physical locations.
    
  - VPN mesh architecture using NetBird for flexible peer-to-peer connectivity between infrastructure nodes.
    
  - Centralized WireGuard VPN for legacy remote access scenarios using a traditional hub-and-spoke model.
+
+| Layer | Examples |
+|---|---|
+| Network Overlay | NetBird, WireGuard |
+| Remote Management | RustDesk, SSH, Cockpit |
+| Remote GUI Streaming | Sunshine, Moonlight |
+| Service Publishing | Caddy, Nginx Proxy Manager |
   
-</details>
+</details> -->
 
 <details>
   <summary>💻 <strong>Full Hardware Stack & Specifications</strong></summary>
@@ -345,11 +368,9 @@ Years later, I accidentally damaged a capacitor near the CPU socket. After spend
 
 ### 🔨 Currently Working On
 
-- 🐑 SheePilot - HomeLab automation manager
-- 🪝 Crook - HomeLab CLI/TUI app
-- 🏠 Expanding self-hosted infrastructure
-- 🤖 Local LLM experiments
-- 🔌 Embedded electronics projects
+- 🐑 **SheePilot** - HomeLab automation manager
+- 🪝 **Crook** - HomeLab CLI/TUI app
+- 🏠 Self-hosted infrastructure · 🤖 Local LLM · 🔌 Embedded projects
 
 ---
 
