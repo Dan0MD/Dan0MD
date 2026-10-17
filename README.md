@@ -204,13 +204,13 @@ Years later, I accidentally damaged a capacitor near the CPU socket. After spend
 
 <hr>
 
-<h2>🛠️ Personal HomeLab Ecosystem</h3>
+<h2>🛠️ Personal HomeLab Ecosystem</h2>
 <p>Personal infrastructure project focused on Linux administration, networking, monitoring, automation, and self-hosted services.</p>
 
 
 <!-- 2. NETWORK ARCHITECTURE & DEPLOYMENT MAP DROP-DOWN -->
 <details>
-  <summary>🌍 <strong>Node Placement & Service Purpose</strong></summary>
+  <summary>🌍 <strong>Node Placement & Service Purpose</strong> (expand for details)</summary>
 
 <!-- <img width="1920" height="1080" alt="Screenshot_20260715_154733" src="https://github.com/user-attachments/assets/57a5baad-c8cb-4835-92ba-58b30ab7a53d" /> -->
 
@@ -357,7 +357,7 @@ Years later, I accidentally damaged a capacitor near the CPU socket. After spend
 </details>
 
 <details>
-  <summary>📷 <strong>Lab Screenshots</summary>
+  <summary>📷 <strong>Lab Screenshots</strong> (click to view)</summary>
 
   ![Alt Text](images/grafana_2026-07-15.png)
   ![Alt Text](images/homepage_1.png)
