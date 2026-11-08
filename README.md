@@ -291,9 +291,9 @@ Years later, I accidentally damaged a capacitor near the CPU socket. After spend
   <blockquote>
     📊 <strong>Operational Fleet Summary (🟢 Active Nodes)</strong>
     <ul>
-      <li><strong>Total Cores/Threads:</strong> <code>32C/40T</code></li>
-      <li><strong>Total Compute Memory:</strong> <code>115 GB RAM</code></li>
-      <li><strong>Total Storage Pool:</strong> <code>6.65 TB</code> (6808 GB across SSD, HDD, NVMe, Flash, and SD media)</li>
+      <li><strong>Total Cores/Threads:</strong> <code>44C/54T</code></li>
+      <li><strong>Total Compute Memory:</strong> <code>149 GB RAM</code></li>
+      <li><strong>Total Storage Pool:</strong> <code>6.55 TB</code> (6706 GB across SSD, HDD, NVMe, Flash, and SD media)</li>
       <li><strong>Node Count:</strong> 9 Online Nodes (4x Clusters, 2x Hybrid Workstations, 2x Mobile Clients, 1x Edge Gateway)</li>
     </ul>
   </blockquote>
@@ -306,6 +306,8 @@ Years later, I accidentally damaged a capacitor near the CPU socket. After spend
 - 🟢 1x Dell Latitude 12 7275 + m7-6Y75 + HD 515 + 8GB RAM + 128GB SSD + 64GB SD card
 - 🟢 1x ASRock D1800M + J1800 + 8GB RAM + 128GB SSD
 - 🟢 1x Lenovo Ideapad 110-15isk + Pentium 4405U + Radeon R5 M330 + 12GB RAM + 120GB SSD + 240GB SSD
+- ⚪ 2x Lenovo ThinkCentre M700 + i5-6500T + HD 530 + 8GB RAM + 256GB SSD
+- ⚪ 1x MSI Z77A-G43 + i5-3450 + GTX 750 Ti + 16GB RAM + 120GB SSD
 - ⚪ 1x ECS EliteGroup H61H2-MV + i3-2120 + GT 710 2GB + 8GB RAM + 120GB SSD *(to be deployed)*
 - ⚪ 1x Dell Optiplex 780 SFF + E7500 + GT 710 2GB + 7GB RAM + 120GB SSD *(to be deployed)*
 - ⚪ 1x Gigabyte GA-EP45-DS3L + Q8200 + GT 710 2GB + 8GB RAM + 120GB SSD *(to be deployed)*
