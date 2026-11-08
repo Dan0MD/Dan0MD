@@ -22,9 +22,9 @@ Linux • Infrastructure • Self-hosting • Hardware • Experimental Computin
 **2014–2022**
 
 - **Motherboard:** ASUS M2N68-LA (HP Narra3-GL8E)
-- **CPU:** AMD Athlon 64 X2 4000+
-- **GPU:** NVIDIA GeForce 6150SE
-- **Memory:** 2 GB DDR2
+- **CPU:** AMD Athlon 64 X2 4000+ (2C/2T 2.10 GHz)
+- **GPU:** NVIDIA GeForce 6150SE (chipset integrated)
+- **Memory:** 2 GB DDR2 (667 MHz)
 - **Storage:** 80 GB HDD
 
 This machine introduced me to PC maintenance, Windows troubleshooting, hardware upgrades, and eventually sparked my interest in systems engineering.
@@ -210,6 +210,7 @@ Years later, I accidentally damaged a capacitor near the CPU socket. After spend
 
 <p>Personal infrastructure project focused on Linux administration, networking, monitoring, automation, and self-hosted services.</p>
 
+  ![Alt Text](images/HomeLabMap1.png)
 
 <!-- 2. NETWORK ARCHITECTURE & DEPLOYMENT MAP DROP-DOWN -->
 <details>
@@ -303,10 +304,10 @@ Years later, I accidentally damaged a capacitor near the CPU socket. After spend
   
 **Hardware stack:** 
 
-- 🟢 Lenovo ThinkCentre M625q-01 — AMD E2-9000e 2C/2T + 4GB RAM + 32GB SSD
-- 🟢 Lenovo ThinkCentre M625q-02 — AMD E2-9000e 2C/2T + 4GB RAM + 32GB SSD
-- 🟢 Lenovo ThinkCentre M625q-03 — AMD E2-9000e 2C/2T + 4GB RAM + 32GB SSD
-- 🟢 Lenovo ThinkCentre M625q-04 — AMD E2-9000e 2C/2T + 4GB RAM + 32GB SSD
+- 🟢 Lenovo ThinkCentre M625q-01 + AMD E2-9000e 2C/2T + 4GB RAM + 32GB SSD
+- 🟢 Lenovo ThinkCentre M625q-02 + AMD E2-9000e 2C/2T + 4GB RAM + 32GB SSD
+- 🟢 Lenovo ThinkCentre M625q-03 + AMD E2-9000e 2C/2T + 4GB RAM + 32GB SSD
+- 🟢 Lenovo ThinkCentre M625q-04 + AMD E2-9000e 2C/2T + 4GB RAM + 32GB SSD
 - 🟢 ASRock D1800M + Celeron J1800 2C/2T + 8GB RAM + 128GB SSD
 - 🟢 Gigabyte GA-H61M-DS2 + Core i5-3470 4C/4T + GT 1030 2GB + 16GB RAM + 240GB SSD
 - 🟢 Gigabyte GA-Z77X-D3H + Core i7-3770 4C/8T + GTX 1070 Ti 8GB + 32GB RAM + 2x240GB SSD + 1TB NVMe + 3x1TB 2.5" HDD
