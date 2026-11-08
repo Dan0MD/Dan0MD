@@ -295,9 +295,9 @@ Years later, I accidentally damaged a capacitor near the CPU socket. After spend
   <blockquote>
     📊 <strong>Operational Fleet Summary (🟢 Active Nodes / ⚪ Total Installed)</strong>
     <ul>
-      <li><strong>Total Cores/Threads:</strong> <code>🟢22C/30T (⚪60C/80T)</code></li>
-      <li><strong>Total Compute Memory:</strong> <code>🟢92 GB RAM (⚪185GB)</code></li>
-      <li><strong>Total Storage Pool:</strong> <code>🟢5.50 TB (⚪6.67TB)</code> (6826 GB across SSD, HDD, NVMe, Flash, and SD media)</li>
+      <li><strong>Total Cores/Threads:</strong> <code>🟢22C/30T (⚪62C/82T)</code></li>
+      <li><strong>Total Compute Memory:</strong> <code>🟢92 GB RAM (⚪189GB)</code></li>
+      <li><strong>Total Storage Pool:</strong> <code>🟢5.50 TB (⚪6.70TB)</code> (6858 GB across SSD, HDD, NVMe, Flash, and SD media)</li>
       <li><strong>Node Count:</strong> 9 Online Nodes (4x Clusters, 2x Hybrid Workstations, 2x Remote Clients, 1x Edge Gateway)</li>
     </ul>
   </blockquote>
