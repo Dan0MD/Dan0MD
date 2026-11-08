@@ -292,30 +292,41 @@ Years later, I accidentally damaged a capacitor near the CPU socket. After spend
   <br>
   <!-- RESOURCE METRICS DASHBOARD -->
   <blockquote>
-    📊 <strong>Operational Fleet Summary (🟢 Active Nodes)</strong>
+    📊 <strong>Operational Fleet Summary (🟢 Active Nodes / ⚪ Total Installed)</strong>
     <ul>
-      <li><strong>Total Cores/Threads:</strong> <code>22C/30T (44C/54T)</code></li>
-      <li><strong>Total Compute Memory:</strong> <code>54 GB RAM (149GB)</code></li>
-      <li><strong>Total Storage Pool:</strong> <code>5.50 TB (6.55TB)</code> (6706 GB across SSD, HDD, NVMe, Flash, and SD media)</li>
+      <li><strong>Total Cores/Threads:</strong> <code>🟢22C/30T (⚪60C/80T)</code></li>
+      <li><strong>Total Compute Memory:</strong> <code>🟢92 GB RAM (⚪185GB)</code></li>
+      <li><strong>Total Storage Pool:</strong> <code>🟢5.50 TB (⚪6.67TB)</code> (6826 GB across SSD, HDD, NVMe, Flash, and SD media)</li>
       <li><strong>Node Count:</strong> 9 Online Nodes (4x Clusters, 2x Hybrid Workstations, 2x Mobile Clients, 1x Edge Gateway)</li>
     </ul>
   </blockquote>
   
 **Hardware stack:** 
 
-- 🟢 4x Lenovo ThinkCentre M625q + AMD E2-9000e + 4GB RAM + 32GB SSD
-- 🟢 1x Gigabyte GA-H61M-DS2 + i5-3470 + GT 1030 2GB + 16GB RAM + 240GB SSD
-- 🟢 1x Gigabyte GA-Z77X-D3H + i7-3770 + GTX 1070 Ti 8GB + 32GB RAM + 2x240GB SSD + 1TB NVMe + 3x1TB 2.5" HDD
-- 🟢 1x Dell Latitude 12 7275 + m7-6Y75 + HD 515 + 8GB RAM + 128GB SSD + 64GB SD card
-- 🟢 1x ASRock D1800M + J1800 + 8GB RAM + 128GB SSD
-- 🟢 1x Lenovo Ideapad 110-15isk + Pentium 4405U + Radeon R5 M330 + 12GB RAM + 120GB SSD + 240GB SSD
-- ⚪ 2x Lenovo ThinkCentre M700 + i5-6500T + HD 530 + 8GB RAM + 256GB SSD
-- ⚪ 1x MSI Z77A-G43 + i5-3450 + GTX 750 Ti + 16GB RAM + 120GB SSD
-- ⚪ 1x ECS EliteGroup H61H2-MV + i3-2120 + GT 710 2GB + 8GB RAM + 120GB SSD *(to be deployed)*
-- ⚪ 1x Dell Optiplex 780 SFF + E7500 + GT 710 2GB + 7GB RAM + 120GB SSD *(to be deployed)*
-- ⚪ 1x Gigabyte GA-EP45-DS3L + Q8200 + GT 710 2GB + 8GB RAM + 120GB SSD *(to be deployed)*
-- 🔵 1x M2N68-LA + Athlon 64 X2 4000+ + GeForce 6150SE + 2GB RAM + 80GB HDD *(Retro Machine)*
+- 🟢 4x Lenovo ThinkCentre M625q + AMD E2-9000e 2C/2T + 4GB RAM + 32GB SSD
+- 🟢 1x ASRock D1800M + Celeron J1800 2C/2T + 8GB RAM + 128GB SSD
+- 🟢 1x Gigabyte GA-H61M-DS2 + Core i5-3470 4C/4T + GT 1030 2GB + 16GB RAM + 240GB SSD
+- 🟢 1x Gigabyte GA-Z77X-D3H + Core i7-3770 4C/8T + GTX 1070 Ti 8GB + 32GB RAM + 2x240GB SSD + 1TB NVMe + 3x1TB 2.5" HDD
+- 🟢 1x Dell Latitude 12 7275 + Core m7-6Y75 2C/4T + HD 515 + 8GB RAM + 128GB SSD + 64GB SD card
+- 🟢 1x Lenovo Ideapad 110-15isk + Pentium 4405U 2C/4T + Radeon R5 M330 + 12GB RAM + 120GB SSD + 240GB SSD
+- 🔵 1x M2N68-LA + Athlon 64 X2 4000+ 2C/2T + GeForce 6150SE + 2GB RAM + 80GB HDD *(Retro Machine)*
+- ⚪ 2x Lenovo ThinkCentre M700 + Core i5-6500T 4C/4T + HD 530 + 8GB RAM + 256GB SSD *(to be deployed)*
+- ⚪ 1x ECS EliteGroup H61H2-MV + Core i3-2120 2C/4T + GT 710 2GB + 8GB RAM + 120GB SSD *(to be deployed)*
+- ⚪ 1x Dell Optiplex 780 SFF + Duo E7500 2C/2T + GT 710 2GB + 7GB RAM + 120GB SSD *(to be deployed)*
+- ⚪ 1x Gigabyte GA-EP45-DS3L + Quad Q8200 4C/4T + GT 710 2GB + 8GB RAM + 120GB SSD *(to be deployed)*
+- 🔴 1x MSI Z77A-G43 + Core i5-3450 4C/4T + GTX 750 Ti + 16GB RAM + 120GB SSD *(almost repaired)*
+- 🔴 1x QIYIDA X79 + Xeon E5-2689 8C/16T + 16GB RAM + 120GB SSD *(to be repaired)*
+- 🔴 1x ASUS Z170 Gaming + Core i3-7100 2C/4T (this is just a test CPU, will be upgraded later) + 8GB *(to be repaired)*
+- 🔴 1x Gigabyte GA-H77-DS3H + Pentium G2030 2C/2T + 4GB RAM
+- 🔴 1x Gigabyte GA-B75M-D2V + Pentium G630 2C/2T + 4GB RAM
+- 🔴 1x ASRock H81M-VG4 + Pentium G3220 2C/2T + 4GB RAM
+- 🔴 1x HP Chromebook 11 G1 EE + Celeron N3350 2C/2T + 4GB RAM
   
+Legend:
+- 🟢 Active / Operational
+- 🔵 Dedicated Retro Hardware
+- ⚪ Offline / Standby / Not deployed
+- 🔴 Damaged Hardware
 </details>
 
 
