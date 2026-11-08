@@ -205,6 +205,9 @@ Years later, I accidentally damaged a capacitor near the CPU socket. After spend
 <hr>
 
 <h2>🛠️ Personal HomeLab Ecosystem</h2>
+
+> ⚠️ **Disclaimer:** The information below may not always reflect the current state of the infrastructure. Nodes, hardware components, and services are frequently relocated, reconfigured, or repurposed, so some details may be outdated or inconsistent.
+
 <p>Personal infrastructure project focused on Linux administration, networking, monitoring, automation, and self-hosted services.</p>
 
 
